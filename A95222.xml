@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True relation of the late battell neere Newbery. Shewing the happy successe of his Excellencies forces against the cavaliers, upon Monday, Tuesday, and Wednesday, with the manner of their fight, and how many slaine, and taken prisoners on both sides. Also how his Majesty and the prince standing on a hill neere, and viewing the said fight, concluded that it was a worse bout then Edge-hill. With a perfect relation of the taking of Cyrencester, the number of prisoners, horses, armes, ammunition, and provisions. As it was sent in a letter from one in the army, to his friend in London, dated from their quarters in Reading, 23 of September, 1643.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95222</idno>
+            <idno type="STC">Wing T2977</idno>
+            <idno type="STC">Thomason E69_2</idno>
+            <idno type="STC">ESTC R14356</idno>
+            <idno type="EEBO-CITATION">99859648</idno>
+            <idno type="PROQUEST">99859648</idno>
+            <idno type="VID">155422</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95222)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155422)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 12:E69[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True relation of the late battell neere Newbery. Shewing the happy successe of his Excellencies forces against the cavaliers, upon Monday, Tuesday, and Wednesday, with the manner of their fight, and how many slaine, and taken prisoners on both sides. Also how his Majesty and the prince standing on a hill neere, and viewing the said fight, concluded that it was a worse bout then Edge-hill. With a perfect relation of the taking of Cyrencester, the number of prisoners, horses, armes, ammunition, and provisions. As it was sent in a letter from one in the army, to his friend in London, dated from their quarters in Reading, 23 of September, 1643.</title>
+                  <author>T. V.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright, in the Old-Bailey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>26 Septemb. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"From our quarters at Reading Sept. 23, 1643." signed T.V.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155422:1"/>
+            <pb facs="tcp:155422:1" rendition="simple:additions"/>
+            <p>A True RELATION <hi>OF THE</hi> LATE BATTELL NEERE NEWBERY. SHEWING The happy ſucceſſe of his Excellen<g ref="char:EOLhyphen"/>cies Forces againſt the Cavaliers, upon Mon<g ref="char:EOLhyphen"/>day, Tueſday, and Wedneſday, with the manner of their Fight, and how many ſlaine, and taken Priſoners on both ſides. Alſo how his Majeſty and the Prince ſtanding on a hill neere, and viewing the ſaid Fight, concluded that it was a worſe bout then Edge-hill. With a perfect Relation of the taking of <hi>Cyrenceſter,</hi> the number of Priſoners, Horſes, Armes, Ammunition, and Proviſions: As it was ſent in a Letter from one in the Army, to his Friend in <hi>London;</hi> Dated from their quarters in <hi>Reading,</hi> 23 of <hi>September,</hi> 1643.</p>
+            <p>London Printed for John Wright, in the Old-Bailey, 26 Septemb. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155422:2"/>
+            <pb n="1" facs="tcp:155422:2"/>
+            <head>A true Relation of the late battell neere Newbury, Sept. 23. 1643.</head>
+            <opener>
+               <salute>Loving Maſter,</salute>
+            </opener>
+            <p>MY ſervice being preſented to your ſelfe and my Miſtreſſe, with my love to my Brother, Siſter, and all the reſt of my Friends, Theſe are to informe you that I am in good health, at preſent, I praiſe God, and ſo is all our Companie.</p>
+            <p>At our firſt entrance into <hi>Gloſter</hi> I ſent a Letter to my Brother, if it miſcarried not, wherein was a Relation of that Skirmiſh at <hi>Stow,</hi> in which as we heard, it was reported in <hi>London</hi> that we were all miſerably kil'd, when indeed Prince <hi>Ru<g ref="char:EOLhyphen"/>pert</hi> &amp; his now terrifi'd Cavaleers ran away before <hi>20</hi> Muſkets was ſhot on our ſide, for their parts I thinke they had none there to ſhoot, the noyſe of my Lord Generals Ordnance &amp; the ſight of the Citizens, is now an ordinary fore-runner of their running con<g ref="char:EOLhyphen"/>ſtitutions, from thence we chac't them before us till we came to <hi>Gloſter,</hi> and there rowz'd them from their neſts, made them burne their Cabins, wheele about to the left, and leave ſome of the Cabbages without, and all their glorious pillage ſo much gap'd for within the City.</p>
+            <p>On Friday <hi>Sept. 8.</hi> we entred the City and there quartered till Sunday following, and from thence we marcht to <hi>Teuksbury,</hi> where we lay till laſt Fri<g ref="char:EOLhyphen"/>day,
+<pb n="2" facs="tcp:155422:3"/>on which morning ſome of the Cavalers ſet upon a party of our Horſe, which were quarter'd at <hi>Oxen<g ref="char:EOLhyphen"/>ton</hi> foure miles off, who being not ſo vigilant as they ought to have beene in their watches, were routed, ſome few were ſpoyld and taken, and the reſt made to flye: The day before we cauſed a Bridge to be made over the Severne, and ſent ſome Forces to <hi>Upton</hi> Bridge, in policy, as if we intended to march for <hi>Worceſter,</hi> which cauſed the Enemy to draw all his forces together forthe defence of that place, plan<g ref="char:EOLhyphen"/>ted their Ordnance, and thought to tickle us by the way; but the fooles were cozen'd, for on Friday morn<g ref="char:EOLhyphen"/>ing we went cleane another way marcht all day and the greateſt part of the night from <hi>Teuxbury</hi> to <hi>Ci<g ref="char:EOLhyphen"/>tenceſter 18</hi> miles, where we tooke <hi>200</hi> and odde of them napping in their beds, though we thanke God their Horſes were feeding in the Stables, who as themſelves ſay, were going into <hi>Kent</hi> as ſoone as their companies could be filled: the maner was thus, On Friday night we thought to have quartered in the fields <hi>8</hi> miles off from <hi>Ciceſter,</hi> but having intel<g ref="char:EOLhyphen"/>ligence that ſuch a party was there, we pluckt up our ſpirits, drew up a forlorne hope of about ſix hun<g ref="char:EOLhyphen"/>dred Muſquetiers, and ſo we marcht luſtily for <hi>Ciceſter,</hi> we drew neare it about one of the clock in the morning; and becauſe we expected ſome knock<g ref="char:EOLhyphen"/>ing worke, for we heard that Prince <hi>Maurice</hi> with two thouſand horſe was there: we had all white handkerchiffs in our hats, and the word <hi>GOD</hi> in our mouthes for diſtinction, our forlorne hope bravely entred the Towne, whilſt the reſt of our for<g ref="char:EOLhyphen"/>ces ſurrounded it, and as ſoone as we werein, com<g ref="char:EOLhyphen"/>manded
+<pb n="2" facs="tcp:155422:3"/>all the inhabitants upon pain of death to keep their doores and windowes ſhut, and if any man preſumed to look out or ſtir, we were comman<g ref="char:EOLhyphen"/>ded to ſhoot them, or knock them downe: they had ſet out a guard of foure men, but the Centry was aſleep, whom we ſtraight knockt down for quietneſſe ſake; the reſt took houſe, and we marcht up to the Mar<g ref="char:EOLhyphen"/>ket place, according to order, without any oppoſiti<g ref="char:EOLhyphen"/>on, the Cavaliers ſuppoſing we had been Prince <hi>Maurice</hi> and his forces, who it ſeems were that night expected, tilwe entred their houſes; drag'd them our priſoners, and put them into the Church toge<g ref="char:EOLhyphen"/>ther till the next morning. Among the Priſoners was one Captaine <hi>Hacker,</hi> a late City Captain, and ſome other Captaines, Officers and Citizens of worth and quality, and one <hi>Maſon</hi> an Vpholſter in Newgate-market: the Priſoners we bring along with us, but what ſervice we are next deſigned for, as yet we know not: I think if it pleaſe God to preſerve us, as bleſſed be his name he hath hitherto wonderfully done, it will not be long before we be in <hi>London.</hi>
+            </p>
+            <p>At <hi>Ciceſter</hi> we took between thirty and forty Cart-load of Bread and Cheeſe, the Cavaliers had got and ready provided for their owne eating, all their Horſes, ſome Piſtolls, Swords, and Cara<g ref="char:EOLhyphen"/>bines, with ſome Money, and good Cloaths, to God be the glory and honour for ever.</p>
+            <div type="part">
+               <pb n="4" facs="tcp:155422:4"/>
+               <head>
+                  <hi>From our Quarters at Reading Sept.</hi> 23. 1643.</head>
+               <p>SIr, ſince this Letter, which till now I had no opor<g ref="char:EOLhyphen"/>tunity to ſend, we have had three bouts with the Cavaliers, who have been ſo inraged ever ſince we diſ<g ref="char:EOLhyphen"/>appointed their purpoſes at Gloceſter, and got away their bread and cheeſe at Ciciter, that they have often ſworne we ſhould never ſee London againe, and our Priſoners have bragd of the ſame as a thing impoſſible, yet the Lord be praiſed we are now pretty well on our way. On Monday laſt we quartered at Chilleton, and that afternoon the Cavaliers faced us on Mavern hills, two miles on this ſide; we made as if we had retreated, and ſent out a party of horſe to meet them, they joyned, fired bravely upon each other, and our horſe wheeled off: Then my Lord Generall fell on with his Foot, and gave them a gallant charge, which accompanied with a Volley of our Dragooners ratled for the ſpace of an houre without any ceſſation. Then the trained Bands and Auxiliaries were drawne on, but the dark<g ref="char:EOLhyphen"/>neſſe of the night prevented out further ſport for that time. Wee tooke about 60 priſoners, and marched away that night to Chelton, and from thence the next day to Newbery, where the Cavaleers pitcht a field againſt our comming, planted their Ordnance, and having joyned the King and Queenes Army together with Prince <hi>Maurice</hi> his foot, and all the forces they could poſſible make, thought themſelves ſure of our deſtruction, but God had otherwiſe determined it: for on Wedneſday morning my Lord Generall by Sun riſe eſpying their body ſet in a battalia upon a
+<pb n="5" facs="tcp:155422:4"/>place called Newbery-common, d<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> up towards them, fell to it pell-mell, &amp; the fight continued without any intermiſſion all that day and the next night till one or two of the clocke the next morning: Many men were killed on both ſides, but <hi>God</hi> be praiſed wee won the field of them, and beat them into the Towne: The moſt we loſt were out of the Blew and Red Trained-Bands, who nevertheleſſe have gained themſelves eter<g ref="char:EOLhyphen"/>nall honour. Lievtenant Colonell <hi>Tucker</hi> and Cap<g ref="char:EOLhyphen"/>taine <hi>Hunt</hi> of the Red Trained bands are ſlaine. The fight was long and terrible, ſome talke of thouſands ſlaine on the Kings ſide; I viewed the field, and cannot gueſſe above 500, but this the Townſmen informed us, that they carried 60 cart load of dead and wounded men into the Towne before I came to view the place, and ſuch crying there was for Surgeons as never was the like heard. The King, Queen, and Prince ſtood all the day upon a hill hard by, in ſight of us, and beheld all: and the King himſelfe hath ſaid, <hi>That this was a worſe bout then Edge-hill.</hi> The next day we faced them upon the Common till eleven or twelve of the clocks but they drew not out to meet us, which cauſed us to march away, our buſineſſe being onely to breake thorow their Army home. But Colonell <hi>Hurry,</hi> as ſoone as we were gone, with a ſtrong party of horſe made after us, but ſuch was the baſe cowardiſe of our horſe, which that day brought up the Reare, that upon a weake aſſault of the enemy they ran away, rode quite thorow our foot in a narrow lane, preſt many of them downe under their horſes feet, and for the preſent ut<g ref="char:EOLhyphen"/>terly routed us, which cauſed the enemy to fall on with great eagerneſſe and reſolution; but God be prai<g ref="char:EOLhyphen"/>ſed
+<pb n="6" facs="tcp:155422:5"/>our Foot got over into the fields out of the lane, lined the hedges with Musketiers, and killed them like Dogs, making them quickly retreat, and take time to repent their haſty bargain. I know but of three ſlain outright in our Company, of which <hi>Thomas</hi> Maſter <hi>Glovers</hi> Journeyman is one.</p>
+               <p>The conſideration of all our protection from our enemies, for all their inveterate rage and malice againſt us: the preſervation of our bodies in health and ſtrength, for all our many hard ſhifts and neceſſities, with many other mercies, makes us ſenſible of this concluſion, <hi>This is the Lords doing, and it is marvellous in our eyes.</hi> So deſiring your prayers for us, I com<g ref="char:EOLhyphen"/>mit you to God, and reſt,</p>
+               <closer>
+                  <signed>Yours, <hi>T. V.</hi>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>In our firſt fight we killed a great Marqueſse of France his ſon, whoſe body we brought with us to Hungerford, and thi<g ref="char:EOLhyphen"/>ther the King ſent a Trumpeter to my Lord Generall about it, but I know not what anſwer was returned: and on Wed<g ref="char:EOLhyphen"/>neſday my Lord</hi> Falkland, <hi>the Earle of</hi> Carnarvan, <hi>and my Lord</hi> Spencer, <hi>as I certainly heare are ſlaine, alſo a Biſhop, about whoſe body the King alſo ſent a Trumpeter to my Lord Generall the next day. His Maieſty ſent from</hi> Oxford <hi>on Friday for the burying of ſixty Lords, Knights, and gentle<g ref="char:EOLhyphen"/>men of great quality, at ſeverall places in and about</hi> Oxford, <hi>and there were many of their chiefe Commanders ſlaine, (and as a great Commander of theirs ſaid) that there was not one Commander that charged upon us, but were either ſlain, woun<g ref="char:EOLhyphen"/>ded, or had his horſe ſhot under him.</hi>
+                  </p>
+               </postscript>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>
+               <hi>This is licenſed, and entred into the Regiſter Book of the Company of</hi> Stationers, <hi>according to Order.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
